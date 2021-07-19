@@ -1,5 +1,5 @@
 import React from 'react';
-//import '../styles/Header.css';
+import './styles/Header.css';
 
 // By importing the Header.css file, it is added to the DOM whenever this component loads
 
@@ -13,7 +13,7 @@ const styles = {
     background: 'blue',
   },
   headingStyle: {
-    fontSize: '30px',
+    fontSize: '40px',
   },
   headerFont: {
     fontColor: 'White',
